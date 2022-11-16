@@ -1,0 +1,7 @@
+#! /usr/bin/bash
+
+killall conky
+
+wait 2
+
+conky
